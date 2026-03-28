@@ -1,0 +1,36 @@
+{
+  "version": 4,
+  "files": {
+    "cli.py": {
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "processor.py": {
+      "status": "skipped",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 2
+    },
+    "parser.py": {
+      "status": "skipped",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 2
+    },
+    "time_utils.py": {
+      "status": "skipped",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 2
+    },
+    "exceptions.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    }
+  },
+  "last_updated": "2026-03-28T19:27:53.347292"
+}
